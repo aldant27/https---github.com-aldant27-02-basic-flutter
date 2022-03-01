@@ -10,90 +10,90 @@ Prodi :  MI <br/>
 ## Hasil Praktikum
 
 ### 1. Text Widget
-![Text](Img/Text.png)
-<br/>
+![Text](Img/ss/Text.png)
+<brss/>
 
 ### 2. Image Widget
-![Image](Img/owl.png)
+![Image](Img/ss/owl.png)
 <br/>
 
 ### 3. Material Design dan iOS Cupertino
-![Cupertino](Img/Cupertino.png)
+![Cupertino](Img/ss/Cupertino.png)
 <br/>
 
 ### 4. Button
-![Button](Img/button.png)
+![Button](Img/ss/button.png)
 <br/>
 
 ### 5. Scaffold
-![Scaffold](Img/scaffold.png)
+![Scaffold](Img/ss/scaffold.png)
 <br/>
 
 ### 6. Dialog
-![Dialof](Img/dialog.png)
+![Dialof](Img/ss/dialog.png)
 <br/>
 
 ### 7. Input dan Selection Widget
-![Input](Img/Input.png)
+![Input](Img/ss/Input.png)
 <br/>
 
 ### 8. Date and Time Pickers
-![date](Img/Date.png)
+![date](Img/ss/Date.png)
 <br/>
 
 ### 9. Container Property Child
-![Container1](Img/container1.png)
+![Container1](Img/ss/container1.png)
 <br/>
 
 ### 10. Container Property Alignment
-![Container2](Img/container2.png)
+![Container2](Img/ss/container2.png)
 <br/>
 
 ### 11. Container Property Color
-![COntainer3](Img/container3.png)
+![COntainer3](Img/ss/container3.png)
 <br/>
 
 ### 12. Container Property Height dan Width 
-![COntainer4](Img/container4.png)
+![COntainer4](Img/ss/container4.png)
 <br/>
 
 ### 13. Container Property Margin
-![COntainer5](Img/container5.png)
+![COntainer5](Img/ss/container5.png)
 <br/>
 
 ### 14. Container Property Padding
-![COntainer6](Img/container6.png)
+![COntainer6](Img/ss/container6.png)
 <br/>
 
 ### 15. Container Property Transform 
-![COntainer7](Img/container7.png)
+![COntainer7](Img/ss/container7.png)
 <br/>
 
 ### 16. Container Property Decoration
-![COntainer8](Img/container8.png)
+![COntainer8](Img/ss/container8.png)
 <br/>
 
 ### 17. Column Widget
-![Column](Img/column.png)
+![Column](Img/ss/column.png)
 <br/>
 
 ### 18. Row Widget 
-![Row](Img/Row.png)
+![Row](Img/ss/Row.png)
 <br/>
 
 ### 19. Stack 
-![Stack](Img/stack.png)
+![Stack](Img/ss/stack.png)
 <br/>
 
 ### 20. ListView
-![Listview](Img/ListView.png)
+![Listview](Img/ss/ListView.png)
 <br/>
 
 ### 21. GridView
-![GridView](Img/Grid.png)
+![GridView](Img/ss/Grid.png)
 <br/>
 
 ### Tugas
-
+![Tugas](Img/ss/Tugas.png)
 <br/>
 
